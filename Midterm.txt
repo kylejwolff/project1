@@ -1,0 +1,7 @@
+Dinosaur slides
+Go back to his webpage
+Section 2 - don't review interrupts or threads
+Semaphores
+write pseudocode for enforcing order
+no questions requiring memorization
+understand all key concepts and how to implement them using pseudocode
